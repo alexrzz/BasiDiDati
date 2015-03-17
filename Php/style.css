@@ -1,0 +1,22 @@
+﻿a:hover
+{  
+  text-decoration:underline overline;
+  background-color:blue;
+  color: white;
+}
+
+a:visited
+{
+  color:black;
+}
+
+a:visited:hover
+{
+  color:white;
+}
+
+a
+{
+  color:black;
+  text-decoration:underline;
+}

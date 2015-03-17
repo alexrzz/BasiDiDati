@@ -1,0 +1,20 @@
+INSERT INTO Tecnici VALUES
+(1,"T.E.A. S.r.l.","Ingegnere elettronico"),
+(2,"Santa Lucia S.p.A.","Ingegnere biomedico"),
+(3,"CSA","Manutentore autorizzato"),
+(4,"Sanimed S.r.l","Ingegnere manutentore"),
+(5,"Adiramef","Ingegnere clinico specializzato"),
+(6,"Biomed S.a.S","Perito senior"),
+(7,"Tsem","Perito elettrotecnico"),
+(8,"Meditek Services","Ingegnere elettrotecnico"),
+(9,"TDL Technology","Perito informatico"),
+(10,"Mectronic","Ingegnere meccanico"),
+(11,"Garda S.r.l.","Perito meccanico"),
+(12,"Zcs","Ingegnere informatico"),
+(13,"Optima S.r.l.","Perito elettronico"),
+(34,"Sirel S.r.l.","Tecnico biomedicale"),
+(35,"E.X.A. S.p.A.","Ingegnere telecomunicazioni"),
+(36,"Zatryo","Ingegnere biomedico"),
+(37,"Peap","Perito elettrotecnico"),
+(38,"Ceam S.a.S.","Ingegnere elettronico");
+
